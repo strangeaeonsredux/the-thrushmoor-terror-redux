@@ -1,0 +1,8 @@
+2025/05/16-21:17:40.002 35f8 Recovering log #21
+2025/05/16-21:17:40.003 35f8 Delete type=0 #21
+2025/05/16-21:17:40.004 35f8 Delete type=3 #19
+2025/05/16-21:17:43.447 15a4 Level-0 table #26: started
+2025/05/16-21:17:43.447 15a4 Level-0 table #26: 0 bytes OK
+2025/05/16-21:17:43.448 15a4 Delete type=0 #24
+2025/05/16-21:17:43.449 15a4 Manual compaction at level-0 from '!adventures!o4MF7Mu6HtLgTiO2' @ 72057594037927935 : 1 .. '!adventures!o4MF7Mu6HtLgTiO2' @ 0 : 0; will stop at (end)
+2025/05/16-21:17:43.449 15a4 Manual compaction at level-1 from '!adventures!o4MF7Mu6HtLgTiO2' @ 72057594037927935 : 1 .. '!adventures!o4MF7Mu6HtLgTiO2' @ 0 : 0; will stop at (end)

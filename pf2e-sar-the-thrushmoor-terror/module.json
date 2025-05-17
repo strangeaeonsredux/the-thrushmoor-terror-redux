@@ -1,0 +1,21 @@
+{
+    "id": "pf2e-sar-the-thrushmoor-terror",
+    "title": "PF2e Strange Aeons Redux: The Thrushmoor Terror",
+    "description": "Book 2 of Strange Aeons, Remastered for Pathfinder Second Edition!",
+    "version": "1.1.0",
+    "minimumCoreVersion": "10",
+    "compatibleCoreVersion": "12",
+    "compatibility": {
+        "minimum": "10",
+        "verified": "12"
+    },
+    "packs": [
+        {
+            "name": "thrushmoor-terror",
+            "label": "The Thrushmoor Terror",
+            "path": "./packs/adventures.db",
+            "type": "Adventure",
+	    "system": "pf2e"
+        }
+    ]
+  }
