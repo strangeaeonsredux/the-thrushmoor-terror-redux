@@ -1,3 +1,8 @@
-2025/07/20-22:27:50.188 2eac Recovering log #150
-2025/07/20-22:27:50.190 2eac Delete type=0 #150
-2025/07/20-22:27:50.190 2eac Delete type=3 #149
+2025/07/21-17:05:20.619 7a0 Recovering log #155
+2025/07/21-17:05:20.621 7a0 Delete type=0 #155
+2025/07/21-17:05:20.621 7a0 Delete type=3 #153
+2025/07/21-17:05:42.485 ee0 Level-0 table #161: started
+2025/07/21-17:05:42.485 ee0 Level-0 table #161: 0 bytes OK
+2025/07/21-17:05:42.486 ee0 Delete type=0 #159
+2025/07/21-17:05:42.486 ee0 Manual compaction at level-0 from '!adventures!o4MF7Mu6HtLgTiO2' @ 72057594037927935 : 1 .. '!adventures!o4MF7Mu6HtLgTiO2' @ 0 : 0; will stop at (end)
+2025/07/21-17:05:42.486 ee0 Manual compaction at level-1 from '!adventures!o4MF7Mu6HtLgTiO2' @ 72057594037927935 : 1 .. '!adventures!o4MF7Mu6HtLgTiO2' @ 0 : 0; will stop at (end)
